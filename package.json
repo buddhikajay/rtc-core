@@ -3,7 +3,7 @@
   "description": "Core definitions and functions for the rtc.io suite",
   "version": "4.1.0",
   "dependencies": {
-    "detect-browser": "^4.6.0"
+    "detect-browser": "^5.3.0"
   },
   "devDependencies": {
     "broth": "^2.1.1",
